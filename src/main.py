@@ -12,7 +12,7 @@ from game.logic.random import RandomLogic
 from game.logic.maling_pro_player import MalingProPlayer
 
 init()
-BASE_URL = "http://40.82.192.66/api"
+BASE_URL = "http://localhost:3000/api"
 DEFAULT_BOARD_ID = 1
 CONTROLLERS = {"Random": RandomLogic, "MalingProPlayer": MalingProPlayer}
 
