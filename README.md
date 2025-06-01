@@ -77,6 +77,8 @@ tubes1_mykisah
 ### 🤖 Bot Engine Setup:
 
 1. Clone repository ini ke file lokal Anda dan pastikan semua dependensi sudah terpasang di perangkat Anda. Akses repository [di sini](https://github.com/theglitchpast/tubes1_mykisah).
+2. Masuk ke direktori `src` dengan perintah `cd src`.
+3. Install dependencies Python dengan menjalankan perintah `pip install -r requirements.txt`.
 
 ## 🏃‍♂️ How to Run
 
